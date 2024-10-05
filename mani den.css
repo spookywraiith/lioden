@@ -418,7 +418,7 @@ table#player img {
 /* LIODEN LOGO REPLACER */
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://img.nickpic.host/hmIgmz.gif');
+	content: url('https://i.imgur.com/SQRJthn.gif');
 }
 
 
@@ -433,7 +433,7 @@ div.cave-grid>img {
 /* CAVES (Copy paste to add more) */
 
 a[href$="195147"]>div.cave-grid>img {
-	content: url('https://img.nickpic.host/hmpmbn.png')!important;
+	content: url('https://i.imgur.com/wRDAjsK.jpeg')!important;
 	filter: grayscale(100%);
 }
 
